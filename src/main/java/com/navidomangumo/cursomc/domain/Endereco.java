@@ -134,9 +134,4 @@ public class Endereco implements Serializable{
 	public void setComplemento(String complemento) {
 		this.complemento = complemento;
 	}
-	
-	
-	
-	
-
 }
